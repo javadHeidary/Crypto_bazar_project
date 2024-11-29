@@ -1,7 +1,7 @@
-# crypto_1
+# crypto_bazar_project
 
 A new Flutter project.
-
+| ![صفحه اصلی](https://github.com/javadHeidary/Crypto_bazar_project/blob/main/images/crpto-a.png) |  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
